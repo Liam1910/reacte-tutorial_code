@@ -1,0 +1,7 @@
+to start web server (localhost:3000)
+(run command in project root)
+npm start
+
+to start json server (default localhost:7000 changable in command an code)
+(run command in project root)
+npx json-server --watch data/db.json --port 7000
